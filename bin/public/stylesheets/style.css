@@ -154,7 +154,7 @@ header nav ul li a {
 /* aqui esta la imagen de fondo, fijarse en que tiene un tamaño específico*/
 .wrapper section.hero {
   padding-top: 8em;
-  background: url("../videos/GIF_Independato03.gif");
+  background: url("/bin/public/images/Pioneer6-3.jpg");
   background-size: cover;
 }
 

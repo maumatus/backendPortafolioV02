@@ -7,6 +7,7 @@ const port = 3000;
 //EJS
 app.get('/', (req, res) => {
   res.send("Comienzo desarrollo backend portafolio")
+  //Nos falta decidir y mostrar que interface por defecto presenta
 });
 
 
@@ -14,6 +15,7 @@ app.get('/', (req, res) => {
 //Base de datos simple, un CRUD
 app.post('/clientes', (req, res) => {
   res.send('Recibi petición POST')
+  //Nos falta cargar y manejar parametros
 });
 
 
